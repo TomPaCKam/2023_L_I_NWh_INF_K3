@@ -48,7 +48,7 @@ Aplikacja Dydaktyczna wyświetlająca imię i wiadomość w różnych formatach 
   ...
 
   # aktywacja 
-  $ source .venv/bin/activate
+  $ source .venv/Scripts/activate
   ```
 
 - Integracja z TravisCI:
