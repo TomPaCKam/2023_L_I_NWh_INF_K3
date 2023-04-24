@@ -1,7 +1,7 @@
 # Simple Flask App
 
 Aplikacja Dydaktyczna wyświetlająca imię i wiadomość w różnych formatach dla zajęć
-:qo Continuous Integration, Continuous Delivery i Continuous Deployment.
+o Continuous Integration, Continuous Delivery i Continuous Deployment.
 
 - W projekcie wykorzystamy virtual environment, dla utworzenia hermetycznego środowisko dla aplikacji:
 
